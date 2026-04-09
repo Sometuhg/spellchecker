@@ -1,0 +1,10 @@
+# Compiled code and build artifacts
+/target/
+
+# Toolchain-specific files
+debug/
+release/
+
+# Backup files (if using editors like Vim/Helix)
+*.swp
+*~
