@@ -8,3 +8,5 @@ release/
 # Backup files (if using editors like Vim/Helix)
 *.swp
 *~
+perf.data*
+src/perf.data*
